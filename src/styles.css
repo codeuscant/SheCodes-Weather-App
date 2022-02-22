@@ -1,0 +1,132 @@
+body {
+  font-family: "Lora", serif;
+}
+
+.weather-app {
+  border: 1px solid black;
+  border-radius: 5px;
+  background: rgb(232, 240, 249);
+  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 5px;
+  width: 1000px;
+}
+
+h1 {
+  position: relative;
+  font-size: 50px;
+  padding-top: 45px;
+  padding-right: 10px;
+  margin-left: 105px;
+  display: inline;
+  float: left;
+}
+
+h2 {
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  margin-left: 280px;
+  padding-top: 25px;
+  font-size: 20px;
+}
+
+h3 {
+  margin-top: -160px;
+  margin-right: 225px;
+  float: right;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+li {
+  list-style: none;
+}
+
+.dayTimeWeatherlist {
+  margin-top: 35px;
+  margin-left: 50px;
+  font-size: smaller;
+}
+
+.icon-precip {
+  display: block;
+  margin-left: 85px;
+  margin-top: -30px;
+}
+
+p {
+  margin-top: 10px;
+  margin-left: 25px;
+  padding: 10px;
+  margin: auto 0;
+}
+
+.cloudy-icon {
+  font-size: 50px;
+  margin-top: -15px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  line-height: 15px;
+}
+
+.rain-icon {
+  font-size: 25px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.form {
+  margin-left: 610px;
+  margin-top: -330px;
+  margin-bottom: 100px;
+}
+
+.form-control {
+  position: relative;
+  width: fit-content;
+  display: inline-block;
+}
+
+button {
+  position: relative;
+  display: inline-block;
+  margin: auto 0;
+  margin-bottom: 230px;
+  margin-left: 675px;
+  padding: 5px;
+  background-color: #ffffff;
+}
+
+.card {
+  margin: 30px 65px;
+  padding: 20px;
+  background-color: rgb(232, 240, 249);
+}
+
+.temp {
+  margin-left: 20px;
+}
+
+.sunTemp {
+  margin-left: 15px;
+}
+
+.wedsTemp {
+  margin-left: 15px;
+}
+
+.degrees {
+  position: relative;
+
+  padding-top: 45px;
+  margin-left: -15px;
+  display: inline;
+  float: left;
+}
