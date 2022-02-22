@@ -130,3 +130,8 @@ button {
   display: inline;
   float: left;
 }
+
+.gh {
+  display: block;
+  text-align: center;
+}
